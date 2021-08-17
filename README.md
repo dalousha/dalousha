@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Dalton Xue
 - 👀 I’m interested in working on projects that make day-to-day life more efficient and easier.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: { email: dalousha@gmail.com, instagram: daltonxue }
  
 
